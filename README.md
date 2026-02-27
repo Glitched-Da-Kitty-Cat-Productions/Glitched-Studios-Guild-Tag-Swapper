@@ -17,5 +17,5 @@
 ### Thanks To Pokibyte For Helping Me Fix The Node JS Code
 ### Thanks To Glitched Da Kitty Cat For Making It In Node Js
 # Extra
-### Check Out [My Website](https://glitched-da-kitty-cat.is-a-dev.site)
+### Check Out [My Website](https://glitched-da-kitty-cat.is-a.dev)
 ### Please Dont Skid Or Take Credit For It Please And Thank You
