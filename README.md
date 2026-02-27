@@ -1,3 +1,6 @@
+# This Project Is Now Getting Archived Please Do Not Complain To Us About It No Longer working if it were to break
+
+
 # Information
 ### If Not Working: Please Join discord.gg/3XrRFKAus2 And Ping A Staff Member Or Glitched Da Kitty Cat
 ### Also Run Setup.bat first
